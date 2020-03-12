@@ -1,2 +1,3 @@
 this is my first git exercise.
 i complite the first function.
+i complite the second function.
