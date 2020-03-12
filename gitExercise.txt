@@ -1,5 +1,6 @@
 this is my first git exercise.
-i complite the first function.
-i complite the second function.
-i complite the third function.
-i complite the fourth function.
+i completed the first function.
+i completed the second function.
+i completed the third function.
+i completed the fourth function.
+i completed the fifth function and 我不装了，我不写英文了 。
